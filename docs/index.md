@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "山水的文档"
-  text: "There is a docs"
+  text: "This is a docs"
   tagline: 我会在这里写一些东西？ | I will put something here?
   image:
     src: https://static.shanshui.site/logo.png
