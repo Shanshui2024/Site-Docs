@@ -24,13 +24,13 @@ emmm，为什么有人把我认成了[2b2t.xin](https://www.2b2t.xin/forum.php)�
 
 [山水的博客（已废弃）](http://blog.shanshui.eu.org/) | [山水的文档（已废弃）](https://docs.shanshui.eu.org/)
 
-[山水的文档（目前已Archieve）](https://old.docs.shanshui.site/)
+[山水的文档（目前已Archieve）](https://old.docs.shanshui.site/) ~~（不是我草我old域名哪去了）~~
 
 到现在的全线新网站
 
 **个人**
 
-[山水的总站](https://shanshui.site/)   |   [山水的介绍页](https://www.shanshui.site/)
+[山水的总站](https://shanshui.site/)
 
 [山水的博客](https://blog.shanshui.site/)  |  [山水的论坛](https://bbs.shanshui.site/)
 
@@ -43,8 +43,12 @@ emmm，为什么有人把我认成了[2b2t.xin](https://www.2b2t.xin/forum.php)�
 [山水画路社区服务器](http://spserver.link/) | [山水的网站状态页](https://status.spserver.link/)
 
 ## 山水目前在做什么？
-因为目前已经初三了，大约24年6月就要中考，所以我打算在中考之前整理下目前已知的所有网站
+因为目前已经初三了，大约24年6月就要中考，所以我打算在中考之前整理下目前已知的所有网站（目前已经整理差不多了）
 
 目前在AxT社区当管理员，顺便修点东西（
 
 同时也在自己的山水画路社区里修东西（
+
+同时还加了大大小小共计63个群，其中在19个群里有群管理，四个群是群主（
+
+就有点难绷（
