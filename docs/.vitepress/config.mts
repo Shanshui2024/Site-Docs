@@ -24,7 +24,7 @@ export default defineConfig({
         items: [
           { text: '简介', link: '/old/' },
           { text: '计划', link: '/old/get' },
-          { text: '时间线', link: '/old/timeline' },
+          { text: '时间轴', link: '/old/timeline' },
           { text: ' 千 万 别 点 ', link: 'https://qwbd.shanshui.site' }
         ]
       }
