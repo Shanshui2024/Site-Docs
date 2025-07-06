@@ -1,6 +1,11 @@
 {
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.44"
+    "@nolebase/vitepress-plugin-enhanced-mark": "^2.18.0",
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.0",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.18.0",
+    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.18.0",
+    "@nolebase/vitepress-plugin-inline-link-preview": "^2.18.0",
+    "vitepress": "^1.6.3"
   },
   "scripts": {
     "dev": "vitepress dev docs",

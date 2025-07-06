@@ -1,3 +1,9 @@
+# 时间轴
+---
+
+> *只是个时间轴 对吧*
+
+
 * 创建第一个博客网站并上传源码（shanshuiblog.freedevilhost.ga）   --2023.01.25
 * 网站被DNS劫持 被重定向至“[Corestu小站](https://www.corestu.cn/)”    --2023.03.26 15:43
 * 网站再度被DNS劫持 仍被重定向至“Corestu小站”    --2023.03.26 20:18
@@ -9,3 +15,6 @@
 * 更新服务器并正式启用「山水画路」社区  -- 2023.06.08
 * 重新整理各站并开放[山水的导航页](https://nav.shanshui.site/)
 * 注册新域名spr.us.kg和spr-community.us.kg -- 2024.07.21
+* 域名us.kg供应商更新 目前切换为spr.dpdns.org -- 2025.05.17
+* 更新服务并合并原有us.kg域名 目前已经将部分社区业务迁移至shanshui.site -- 2025.05.17
+* 
