@@ -50,7 +50,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '关于我', link: '/introduce/' },
       { text: '个人主页', link: 'https://shanshui.site/' },
-      { text: '山水画路社区', link: 'https://spr.dpdns.org/' },
+      { text: '山水画路社区', link: 'https://org.shanshui.site/' },
     ],
 
     sidebar: [

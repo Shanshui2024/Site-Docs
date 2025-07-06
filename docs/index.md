@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "山水的文档"
-  text: "Just a docs, right?"
-  tagline: 科技分享 项目创作 巴拉巴拉（
+  name: "光锥备忘录"
+  text: "---"
+  tagline: 科技分享 项目创作 巴拉巴拉 啥都有（
   image:
     src: https://static.shanshui.site/logo.png
     alt: 社区logo（这图片炸了？
